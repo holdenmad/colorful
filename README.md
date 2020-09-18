@@ -1,7 +1,6 @@
 # Colorful App
 
-## Live Demo:
-- [Colourful on Netlify](https://colorful-app.netlify.app/)
+## Live Demo: [Colourful on Netlify](https://colorful-app.netlify.app/)
 
 ![Screenshot of Colorful App](https://i.ibb.co/RpSS2vJ/Screenshot-2020-08-19-at-11-11-54.png)
 
